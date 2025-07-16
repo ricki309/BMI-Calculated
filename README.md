@@ -23,20 +23,21 @@ python bmi_calculator.py
 Follow the prompts to input your name, gender, height (in cm), and weight (in kg).
 
 🧠 BMI Categories (based on Indonesian standards)
-BMI Score	Category
-< 18.5	Underweight
-18.5 – 22.9	Normal
-23.0 – 24.9	Overweight
-≥ 25.0	Obese (needs medical attention)
+* BMI Score	Category:
+- < 18.5	Underweight
+- 18.5 – 22.9	Normal
+- 23.0 – 24.9	Overweight
+- ≥ 25.0	Obese (needs medical attention)
 
 📌 Example Output
 
 --------------- Hasil Perhitungan BMI ----------------------
-Nama: Siti
-Jenis kelamin: Perempuan
-Tinggi badan: 160
-Berat Badan: 50
-Skor BMI 19.5
-Status: Siti, Berat badan kamu normal
+- Nama: Siti
+- Jenis kelamin: Perempuan
+- Tinggi badan: 160
+- Berat Badan: 50
+- Skor BMI 19.5
+- Status: Siti, Berat badan kamu normal
+  
 👨‍💻 Author
-Created by Ricki – feel free to fork, modify, or contribute!
+Created by ricki309 – feel free to fork, modify, or contribute!
